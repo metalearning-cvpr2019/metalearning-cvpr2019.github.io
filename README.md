@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Organizers
 
-You can use the [editor on GitHub](https://github.com/metalearning-cvpr2019/metalearning-cvpr2019.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Nikhil Naik, Nitish Keskar, Richard Socher (Salesforce Research); Frank Hutter (University of Frieburg); Chelsea Finn (University of California, Berkeley); Ramesh Raskar (MIT)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Time and Location
+June 17, 2019. 9:00 am - 12:30 pm. Room 203A
 
-### Markdown
+## Tutorial Description
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Deep neural networks, containing millions of parameters and several hundred layers, form the backbone of modern image and video understanding systems. While the network architectures and hyperparameters are typically handcrafted, an emerging research area of metalearning focuses on automating the configuration of these systems in an end-to-end fashion. Metalearning algorithms can learn from and optimize deep learning methods, develop new deep learning methods from scratch, and learn to transfer knowledge across tasks and domains.
 
-```markdown
-Syntax highlighted code block
+In practice, metalearning algorithms, such as neural architecture search, now outperform extensively human-engineered systems in tasks such as image classification, object detection, and few-shot learning. Moreover, metalearning algorithms can be used to develop computationally efficient and platform-specific deep learning systems, which is a challenging task for human designers. These metalearning algorithms are based on methods in reinforcement learning, evoutionary computation, gradient descent, and Bayesian optimization.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/metalearning-cvpr2019/metalearning-cvpr2019.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This tutorial will present an overview of metalearning algorithms for computer vision. The audience will gain a practical understanding of the use of metalearning for building computer vision systems, as well as opportunities for future research and applications.

@@ -5,10 +5,11 @@ Nikhil Naik, Nitish Keskar, Richard Socher (Salesforce Research); Frank Hutter (
 ## Time and Location
 June 17, 2019. 9:00 am - 12:30 pm. Room 203A
 
-## Tutorial Description
+## Tutorial Schedule
 
-Deep neural networks, containing millions of parameters and several hundred layers, form the backbone of modern image and video understanding systems. While the network architectures and hyperparameters are typically handcrafted, an emerging research area of metalearning focuses on automating the configuration of these systems in an end-to-end fashion. Metalearning algorithms can learn from and optimize deep learning methods, develop new deep learning methods from scratch, and learn to transfer knowledge across tasks and domains.
-
-In practice, metalearning algorithms, such as neural architecture search, now outperform extensively human-engineered systems in tasks such as image classification, object detection, and few-shot learning. Moreover, metalearning algorithms can be used to develop computationally efficient and platform-specific deep learning systems, which is a challenging task for human designers. These metalearning algorithms are based on methods in reinforcement learning, evoutionary computation, gradient descent, and Bayesian optimization.
-
-This tutorial will present an overview of metalearning algorithms for computer vision. The audience will gain a practical understanding of the use of metalearning for building computer vision systems, as well as opportunities for future research and applications.
+- 9:00 am - 9:10 am : Introduction (Nikhil Naik)
+- 9:10 am - 9:55 am : Few-shot meta-learning (Chelsea Finn)
+- 9:55 am - 10:40 am : Multi-task learning and meta-learning (Nitish Keskar)
+- 10:40 am - 11:00 am : Coffee Break
+- 11:00 am - 11:45 am: Neural Architecture Search (Nikhil Naik)
+- 11:45 am - 12:30 am: Bayesian Optimization and Meta-learning (Frank Hutter)

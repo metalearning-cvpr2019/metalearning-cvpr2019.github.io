@@ -1,6 +1,6 @@
 ## Organizers
 
-Nikhil Naik, Nitish Keskar, Richard Socher (Salesforce Research); Frank Hutter (University of Frieburg); Chelsea Finn (University of California, Berkeley); Ramesh Raskar (MIT)
+Nikhil Naik, Nitish Keskar, Richard Socher (Salesforce Research); Frank Hutter (University of Frieburg); Chelsea Finn (UC Berkeley, Stanford, Google Brain); Ramesh Raskar (MIT)
 
 ## Time and Location
 June 17, 2019. 9:00 am - 12:30 pm. Room 203A

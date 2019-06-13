@@ -3,9 +3,9 @@
 
 body {
 	/*background: #f7f7f7;*/
-	background: #e3e5e8;
+	/*background: #e3e5e8;
 	color: #f7f7f7;
-    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
     font-weight: 300;
 	font-size:16px;
 }
@@ -59,8 +59,8 @@ a:hover {
 	/* border: none; */
 	text-align: center;
 	padding: 1em 1em 1em 1em; /* top, right, bottom, left */
-	color: #4d4b59;
-	background: #f7f7f7;
+	/*color: #4d4b59;
+	background: #f7f7f7;*/
 }
 
 .containersmall {
@@ -71,8 +71,8 @@ a:hover {
 	/* border: none; */
 	text-align: left;
 	padding: 1em 1em 1em 1em; /* top, right, bottom, left */
-	color: #4d4b59;
-	background: #f7f7f7;
+	/*color: #4d4b59;
+	background: #f7f7f7;*/
 }
 
 .schedule {
@@ -83,8 +83,8 @@ a:hover {
 	border: none;
 	text-align: left;
 	padding: 1em 1em 1em 1em; /* top, right, bottom, left */
-	color: #4d4b59;
-	background: #f7f7f7;
+	/*color: #4d4b59;
+	background: #f7f7f7;*/
 }
 
 /* Title and menu */
